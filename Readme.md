@@ -26,12 +26,12 @@
 PayPal捐赠 https://paypal.me/wovow
 
 微信二维码：
-https://tva1.sinaimg.cn/large/007rAy9hgy1g36qhzr9prj30u0155q4p.jpg
+![Image text](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/wechat.jpg)
 
 支付宝二维码：
-https://tva1.sinaimg.cn/large/007rAy9hgy1g36qh4f2gaj30q914uq4t.jpg
+![Image text](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/ali.jpg)
 
 
 红包：
-https://tva1.sinaimg.cn/large/007rAy9hgy1g36qjcgqg8j30fs0nodhv.jpg
+![Image text](https://tva1.sinaimg.cn/large/007rAy9hgy1g36qjcgqg8j30fs0nodhv.jpg)
 
